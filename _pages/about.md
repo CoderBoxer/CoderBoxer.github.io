@@ -11,8 +11,8 @@ profile:
   more_info: >
     <p>📧 shadmanahmmed@gmail.com</p>
     <p>📱 Available for Flutter Development Opportunities</p>
-    <p>🏪 <a href="https://play.google.com/store/apps/details?id=com.shadman.shiaessentials">Shia Essentials on Play Store</a></p>
-    <p>🍎 <a href="https://apps.apple.com/us/app/shia-essentials/id6743581145">Shia Essentials on App Store</a></p>
+    <p>🏪 <a href="https://play.google.com/store/apps/details?id=com.shadman.shiaessentials"> Shia Essentials on Play Store </a></p>
+    <p>🍎 <a href="https://apps.apple.com/us/app/shia-essentials/id6743581145"> Shia Essentials on App Store </a></p>
 
 news: true
 latest_posts: true
