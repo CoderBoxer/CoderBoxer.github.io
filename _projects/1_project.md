@@ -1,81 +1,91 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Shia Essentials
+description: An all-in-one Islamic resources app serving thousands of users across iOS and Android
+img: assets/img/1.jpg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+**Shia Essentials** is a comprehensive Islamic resources mobile application that I developed and successfully published on both Google Play Store and Apple App Store. The app serves thousands of users worldwide, providing essential Islamic content and tools in a user-friendly interface.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="Shia Essentials" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    Shia Essentials - Your comprehensive Islamic companion app
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+## 🚀 Key Features
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+### 📖 Digital Quran
+- Complete Quran with multiple translations
+- High-quality audio recitations
+- Bookmark and note-taking functionality
+- Search across verses and translations
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+### 🤲 Spiritual Resources
+- Extensive collection of Duas with translations
+- Hadith collections with search functionality
+- Daily dhikr and supplications
+- Categorized religious content
 
-{% raw %}
+### ⏰ Prayer Tools
+- Real-time prayer times based on location
+- Qibla direction finder
+- Prayer notifications and reminders
+- Customizable prayer settings
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+### 📅 Islamic Calendar
+- Complete Hijri calendar
+- Important Islamic dates and events
+- Event notifications and reminders
 
-{% endraw %}
+## 🛠 Technical Implementation
+
+**Frontend Development**
+- Built with **Flutter/Dart** for cross-platform compatibility
+- Implemented responsive Material Design UI
+- Created custom widgets for Islamic content display
+- Optimized for both iOS and Android platforms
+
+**State Management**
+- Utilized **Provider** for efficient state management
+- Implemented **SharedPreferences** for local data persistence
+- Clean architecture with separation of concerns
+
+**Backend Integration**
+- **REST API** integration for dynamic content
+- **JSON parsing** for complex data structures
+- Efficient caching mechanisms for offline functionality
+
+## 📊 Impact & Results
+
+- **📱 Published** on both Google Play Store and Apple App Store
+- **👥 Serving thousands** of active users across iOS and Android
+- **⭐ Positive reviews** highlighting app reliability and features
+- **🔄 Regular updates** with new features and improvements
+
+## 🔗 Available On
+
+**Google Play Store**: [Download Shia Essentials](https://play.google.com/store/apps/details?id=com.shadman.shiaessentials)
+
+**Apple App Store**: [Download Shia Essentials](https://apps.apple.com/us/app/shia-essentials/id6743581145)
+
+**GitHub Repository**: [View Source Code](https://github.com/CoderBoxer/shiaessentials)
+
+## 🎯 Key Learnings
+
+Through developing Shia Essentials, I gained valuable experience in:
+
+- **Full-stack mobile development** from concept to production
+- **App Store optimization** and submission processes
+- **User feedback integration** and iterative improvement
+- **Cross-platform development** challenges and solutions
+- **Performance optimization** for mobile applications
+- **API integration** and data management
+
+This project demonstrates my ability to deliver production-ready mobile applications that serve real users and solve meaningful problems in the Islamic community.
