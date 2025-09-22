@@ -2,33 +2,76 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Flutter Mobile App Developer 🚀
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>📧 shadmanahmmed@gmail.com</p>
+    <p>📱 Available for Flutter Development Opportunities</p>
+    <p>🏪 <a href="https://play.google.com/store/apps/details?id=com.shadman.shiaessentials">Shia Essentials on Play Store</a></p>
+    <p>🍎 <a href="https://apps.apple.com/us/app/shia-essentials/id6743581145">Shia Essentials on App Store</a></p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+news: true
+latest_posts: true
+selected_papers: false
+social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+👋 Hello, I'm **Shadman Ahmmed**, a Computer Science undergraduate and passionate Flutter developer dedicated to building clean, functional, and impactful mobile applications.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+✅ **Published Developer** — Created and launched **Shia Essentials**, now available on both Google Play and App Store, serving thousands of users across iOS and Android platforms.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+💡 **Technical Focus** — Specialized in cross-platform development, REST API integration, and modern UI/UX implementation using Flutter and Dart.
+
+🎯 **Career Goal** — Actively seeking Flutter Developer Internship opportunities to contribute to innovative projects, learn from experienced teams, and grow as a mobile app developer.
+
+---
+
+## 🛠 Technical Skills
+
+**Mobile Development**
+- **Flutter & Dart** (Advanced) – Cross-platform iOS/Android development
+- **State Management**: Provider, Riverpod, setState
+- **UI/UX Implementation**: Material Design, responsive layouts
+
+**Backend & Tools**
+- **APIs & Databases**: REST APIs, Firebase, SQLite, SharedPreferences
+- **Development Tools**: Android Studio, VS Code, Flutter DevTools
+- **Version Control**: Git & GitHub workflows
+
+**Programming Languages**
+- **Dart** (Primary), **Python**, **C**, **Java**
+
+---
+
+## 🏆 Notable Achievements
+
+- **📱 Published App Developer** – Shia Essentials on both major app stores
+- **🏅 Finalist** – Scholastica Interschool Olympiad in Informatics (2018)
+- **💻 Google Code-in 2018** – Recognized participant
+- **🎖 MMIT Fest 2018** – Programming Contest Finalist
+
+---
+
+## 📚 Education
+
+**East West University** (2023 - 2027)  
+*B.Sc. in Computer Science & Engineering*  
+Building a strong foundation in CS theory and applying it through practical projects
+
+**Earth House Alternative School**  
+*A Level (2021), O Level (2018)*
+
+---
+
+## 🌍 Languages
+
+- **Bangla**: Native proficiency
+- **English**: Fluent
+
+---
+
+*Ready to collaborate on your next Flutter project? Let's build something amazing together!*
