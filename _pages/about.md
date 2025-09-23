@@ -33,8 +33,8 @@ social: true
 ## 🛠 Technical Skills
 
 **Mobile Development**
-- **Flutter & Dart** (Advanced) – Cross-platform iOS/Android development
-- **State Management**: Provider, Riverpod, setState
+- **Flutter & Dart** – Cross-platform iOS/Android development
+- **State Management**: setState, Provider
 - **UI/UX Implementation**: Material Design, responsive layouts
 
 **Backend & Tools**
