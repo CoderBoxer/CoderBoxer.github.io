@@ -13,9 +13,10 @@ services:
     #     USERID: # id -u
     #     USERNAME: # echo $USER
     ports:
-      - 8080:8080
-      - 35729:35729
+      - "4000:4000"
+      - "35729:35729"
     volumes:
       - .:/srv/jekyll
     environment:
       - JEKYLL_ENV=development
+    command: bundle exec jekyll serve --host 0.0.0.0 --port 4000 --livereload

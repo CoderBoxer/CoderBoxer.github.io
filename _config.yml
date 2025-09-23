@@ -76,6 +76,8 @@ plugins:
   - jekyll-sitemap
   - jemoji
 
+third_party_libraries: {}
+
 # Scholar settings
 scholar:
   last_name: [Ahmmed]
